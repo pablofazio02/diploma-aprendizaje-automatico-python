@@ -1,0 +1,14 @@
+*.csv
+*.xlsx
+*.json
+*.sql
+*.txt
+*.zip
+*.rar
+*.pdf
+*.docx
+*.pptx
+
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
